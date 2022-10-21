@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "234768031489",
+    "project_id": "cubethon-ab6bf",
+    "storage_bucket": "cubethon-ab6bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234768031489:ios:bc0ae9afd8f0b835a18500",
+        "android_client_info": {
+          "package_name": "CubethonFireBase1-2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234768031489-58s19tvba3il3v4diej4jjvefe3o3i67.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqhNLxtOz5nbnlfBObI79TkWp8rA_yi1g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
